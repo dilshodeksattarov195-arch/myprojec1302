@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "databaseuender",
+        "uuid": 10923780,
+        "checksum": "aozby"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
